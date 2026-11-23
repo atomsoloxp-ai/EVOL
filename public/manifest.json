@@ -1,0 +1,22 @@
+{
+  "name": "EVOL SoloLvlUp Fitness Intelligence",
+  "short_name": "EVOL Fitness",
+  "description": "Standalone Gamified Fitness Progression Intelligence System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0c13",
+  "theme_color": "#0a0c13",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/rank-crest.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/assets/avatar-monarch.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
